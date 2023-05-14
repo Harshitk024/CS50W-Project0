@@ -1,0 +1,57 @@
+.advanced_header{
+    padding : 8px;
+
+}
+.advanced_header a {
+
+    margin-left: 1050px;
+}
+.container{
+    
+    width: 300px;
+    height : 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+label{
+ color: rgba(222, 49, 49, 0.836);
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 22px;
+ margin: 20px;
+ margin-left: 50px;
+ 
+}
+
+span{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin-left: 70px;
+
+
+}
+
+
+
+
+.advanced_form{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+  
+}
+
+.text{
+    display: grid;
+    grid-template-columns: auto;
+    height : 25px;
+    width : 500px;
+    margin-left: 60px;
+    
+}
+
+.Submit{
+    margin-left: 400px;
+    background-color: #8ab4f8;
+    color: white;
+    ;
+}
